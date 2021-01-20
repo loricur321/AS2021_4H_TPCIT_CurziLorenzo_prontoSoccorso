@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AS2021_4H_TPCIT_CurziLorenzo_prontoSoccorso", "AS2021_4H_TPCIT_CurziLorenzo_prontoSoccorso\AS2021_4H_TPCIT_CurziLorenzo_prontoSoccorso.csproj", "{08D3994C-C61C-4372-A3D8-B55E1F6854EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08D3994C-C61C-4372-A3D8-B55E1F6854EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D3994C-C61C-4372-A3D8-B55E1F6854EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D3994C-C61C-4372-A3D8-B55E1F6854EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D3994C-C61C-4372-A3D8-B55E1F6854EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D10148E4-F7BC-4534-9322-CFCA32A65F75}
+	EndGlobalSection
+EndGlobal
